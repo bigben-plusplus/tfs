@@ -9,7 +9,7 @@
     *   [下载源码安装][2]
     *   apt-get install libtool
     *   yum install libtool.x86_64
-*   realine 用于命令行编辑的库 
+*   readline 用于命令行编辑的库 
     *   [下载源码安装][3]
     *   apt-get install libreadline-dev
     *   yum install readline-devel.x86_64
